@@ -1,7 +1,7 @@
 package org.totalbeginnereclipse.tutorial;
 
 public class Person {
-	// fields
+	// fields .
 	private String name; // name of the person
 	private int maximumBooks; // most books the person can check 
 	
